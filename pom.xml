@@ -43,7 +43,7 @@
         <url>http://localhost:8081/artifactory/tek-maven</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
+        <id>central</id>
         <name>DESKTOP-T5BGURO-snapshots</name>
         <url>http://localhost:8081/artifactory/tek-maven</url>
     </snapshotRepository>
